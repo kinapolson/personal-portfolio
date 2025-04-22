@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.474686fd.css",
+    "main.js": "/personal-portfolio/static/js/main.4ac86a2b.js",
+    "static/media/water-BG.jpg": "/personal-portfolio/static/media/water-BG.f820515d596ba6b35e2b.jpg",
+    "static/media/cms.png": "/personal-portfolio/static/media/cms.56b36ccc77897a857c3b.png",
+    "static/media/menu.png": "/personal-portfolio/static/media/menu.685a76d17205c27e8cdb.png",
+    "static/media/exer.png": "/personal-portfolio/static/media/exer.c18c467e3954c3ce6ac4.png",
+    "static/media/short-quiz.png": "/personal-portfolio/static/media/short-quiz.de7a1c72772016b0b98f.png",
+    "index.html": "/personal-portfolio/index.html",
+    "main.474686fd.css.map": "/personal-portfolio/static/css/main.474686fd.css.map",
+    "main.4ac86a2b.js.map": "/personal-portfolio/static/js/main.4ac86a2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.474686fd.css",
+    "static/js/main.4ac86a2b.js"
+  ]
+}
