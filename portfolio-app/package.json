@@ -1,6 +1,6 @@
 {
   "name": "portfolio-app",
-  "homepage": "https://<kinapolson>.github.io/<personal-portfolio>",
+  "homepage": "https://kinapolson.github.io/personal-portfolio/",
   "predeploy": "yarn run build",
   "deploy": "gh-pages -d build",
   "version": "0.1.0",
