@@ -1,0 +1,147 @@
+body {
+  background-color: #274d98;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+
+/* Home */
+.homeTitle {
+  color: #e0d9c7;
+  font-family: "Anton", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 270px;
+  margin-left: 15px;
+}
+
+/* About */
+#header {
+  font-family: "Anton", sans-serif;
+  color: #e0d9c7;
+  font-size: 120px;
+  padding: 55px 20px;
+}
+.about-section {
+  margin: 10%;
+  color: #e0d9c7;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+}
+
+/* Projects */
+#header {
+  font-family: "Anton", sans-serif;
+  color: #e0d9c7;
+  font-size: 120px;
+  padding: 55px 20px;
+}
+#projectTitle{
+  font-family: "Anton", sans-serif;
+}
+.projectDescrip{
+  font-family: 'Courier New', Courier, monospace;
+}
+#vpl {
+  text-decoration: none;
+  color: #274d98;
+  background-color: #e0d9c7;
+  border: 3px solid #e0d9c7;
+  border-radius: 20px;
+  padding: 10px;
+}
+.project-img {
+  height: 250px;
+  border-radius: 10px;
+}
+.text {
+  color:#e0d9c7; 
+}
+#cmo {
+  color: #e0d9c7;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+  margin-left: 38px;
+}
+.section {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+  width: 90%;
+  margin: 6rem auto 0 auto;
+  border-top: 5px solid #e0d9c7;
+}
+
+/* Contact */
+#cbutton {
+  list-style-type: none;
+  display: flex;
+  gap: 10px;
+}
+.cbutton-b{
+  color: #274d98;
+  background-color: #e0d9c7;
+  border: 3px solid #e0d9c7;
+  border-radius: 20px;
+  padding: 10px;
+}
+.cbutton-b:hover{
+  color: #e0d9c7;
+  background-color: #274d98;
+  border: 3px solid #e0d9c7;
+  border-radius: 20px;
+  padding: 10px;
+}
+#contact-inside {
+  margin: 10px;
+}
+.contact-form {
+  margin: 10%;
+  border: 3px solid #e0d9c7;
+  border-radius: 10px;
+  background-color: #e0d9c7;
+}
+#contact-submit {
+  color: #e0d9c7;
+  background-color: #274d98;
+  border: 3px solid #e0d9c7;
+  border-radius: 20px;
+  padding: 10px;
+}
+#contact-submit:hover {
+  color: #274d98;
+  background-color: #e0d9c7;
+  border: 3px solid #274d98;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+/* Navbar */
+.navBar {
+  text-align: right;
+  margin-top: 25px;
+  margin-right: 12px;
+}
+.navButton {
+  text-decoration: none;
+  color: #e0d9c7;
+  border: 3px solid #e0d9c7;
+  border-radius: 20px;
+  padding: 10px;
+  margin-left: 5px;
+}
+.navButton:hover {
+  text-decoration: none;
+  background-color: #e0d9c7;
+  color: #274d98;
+  border: 3px solid #e0d9c7;
+  border-radius: 20px;
+  padding: 10px;
+  margin-left: 5px;
+}
+
+/* Footer */
+.footerTitle{
+  color: #e0d9c7;
+  text-align: center;
+}
